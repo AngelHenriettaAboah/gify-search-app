@@ -1,0 +1,26 @@
+* {
+  background-color: rgb(229, 199, 3);
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 10px;
+  padding: 20px;
+}
+
+.gif-item {
+  border: 1px solid #ddd;
+  padding: 5px;
+  text-align: center;
+}
+
+.gif-item img {
+  max-width: 100%;
+  max-height: 150px;
+}
