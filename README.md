@@ -1,2 +1,6 @@
 # giphy-search-app
 The Giphy Search project allows users to search for animated GIFs using the Giphy API. Users can enter a search term, and the application fetches relevant GIFs from the Giphy database, displaying them in a grid layout. This project provides a simple and intuitive interface for exploring diverse topics making it an entertaining tool for users.
+
+## Demo
+
+![Demo](https://raw.githubusercontent.com/AngelHenriettaAboah/gify-search-app/gif-seach/task/my-app/src/gifdemo.jpg)
